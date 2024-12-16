@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tags-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.tag {
+  border: 2px solid black;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  padding: 5px;
+  border-radius: 20%;
+  background-color: grey;
+}
+
+.close {
+  color: red;
+  margin-left: 5px;
+}
